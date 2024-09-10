@@ -1,0 +1,35 @@
+﻿<Page x:Class="Booking.Pages.ApartmentReservationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Booking.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ApartmentReservationPage">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Apartment.jpg">
+            </ImageBrush>
+        </Grid.Background>
+
+        <Rectangle Fill="Wheat" Opacity="0.4"/>
+
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="320" Height="200">
+            <Rectangle Fill="Black" Opacity="0.8" RadiusX="5" RadiusY="5"/>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Apartment reservation" Foreground="#FFE8B657" FontSize="20" Margin="8" TextAlignment="Center" FontFamily="Palatino Linotype" FontWeight="DemiBold"/>
+                <TextBlock Text="Pick the reservation date: " Foreground="Wheat" Margin="5" TextAlignment="Center" FontSize="10" FontFamily="Palatino Linotype"/>
+
+                <DatePicker Name="dpDate" HorizontalAlignment="Center" Width="130" Margin="0,0,0,10" FontSize="10" FontFamily="Palatino Linotype" BorderBrush="#FF78AEAE" Background="Wheat"/>
+
+                <Button x:Name="btnReserve" Content="Reserve" Click="btnReserve_Click" HorizontalAlignment="Center" BorderBrush="#FF78AEAE" Background="#FFE8B657" FontSize="10" FontFamily="Palatino Linotype" Width="130" Margin="0,5,0,10"/>
+
+               
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Page>

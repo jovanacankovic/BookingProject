@@ -1,0 +1,6 @@
+JMBG,Name,LastName,Password,Email,Phone,Type,Blocked,Id,Date,ApartmentName,Status,RefusedBecause
+3,Jovana,Cankovic,123,jovana@gmail.com,021/542-256,GUEST,False,752def24-5c2d-4112-a182-f4aa41c4ecae,12/19/2023,Lux apartman,REQUESTED,
+3,Jovana,Cankovic,123,jovana@gmail.com,021/542-256,GUEST,False,1c77a403-0a5e-4b95-a64d-7c3a8946aaee,12/26/2023,Prestige - standard soba,REQUESTED,
+21,Anabela,Zonai,123,anabela@gmail.com,012/543-211,GUEST,False,8e6a41dd-73b5-4ea1-a2bd-67534f88b6d7,12/31/2023,Prestige - standard soba,REQUESTED,
+21,Anabela,Zonai,123,anabela@gmail.com,012/543-211,GUEST,False,685f33f7-4f0b-46b0-b125-42dec070212c,12/31/2023,Lux apartman,REQUESTED,
+1,Jelena,Djordjevic,123,jeca@gmail.com,011/111-222,OWNER,False,bd0cad93-acc3-4237-ada4-a03860d46842,12/21/2023,Prestige - standard soba,REQUESTED,

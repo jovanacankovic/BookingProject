@@ -1,0 +1,7 @@
+Id,Date,ApartmentName,GuestId,Status,RefusedBecause
+752def24-5c2d-4112-a182-f4aa41c4ecae,12/19/2023 00:00:00,Lux apartman,777,ACCEPTED,
+685f33f7-4f0b-46b0-b125-42dec070212c,12/31/2023 00:00:00,Lux apartman,107,REJECTED,pukla cev u kupatilu
+bd0cad93-acc3-4237-ada4-a03860d46842,12/21/2023 00:00:00,Prestige - standard soba,103,REJECTED,the room is unavailable
+eb036e73-58a8-4c77-af20-7e198e8336a5,09/20/2024 00:00:00,Lazy Days,107,REQUESTED,
+983866cc-c39c-44c2-8e66-c882d6e2ce40,09/28/2024 00:00:00,Lux apartman,107,REQUESTED,
+e36dec5d-26dd-49bc-a21c-9f8f2b8d5544,09/14/2024 00:00:00,gse,103,REJECTED,faawwa

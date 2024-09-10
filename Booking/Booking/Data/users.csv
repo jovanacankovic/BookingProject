@@ -1,0 +1,9 @@
+JMBG,Email,Password,FirstName,LastName,Phone,Role,Blocked
+101,jovana@gmail.com,123,Jovana,Cankovic,021/542-256,OWNER,False
+102,mina@gmail.com,123,Hermina,Savkovic,023/121-256,ADMIN,False
+103,jeca@gmail.com,123,Jelena,Djordjevic,011/111-222,GUEST,False
+104,dragan@gmail.com,123,Dragan,Cankovic,023/555-111,OWNER,False
+105,milana@gmail.com,123,Milana,Radovanovic,013/767-203,OWNER,False
+106,vera@gmail.com,123,Vera,Nadlacki,023/543-211,GUEST,False
+107,sanela@gmail.com,123,Sanela,Dejan,021/989-333,GUEST,False
+108,mika@gmail.com,123,Mihajlo,Omaljev,023/123-123,GUEST,False

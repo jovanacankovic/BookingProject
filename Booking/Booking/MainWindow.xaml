@@ -1,0 +1,102 @@
+﻿<Window x:Class="Booking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Booking"
+        mc:Ignorable="d"
+        Title="Booking app" Height="450" Width="800">
+
+    
+    <Grid>
+
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="Pages/Images/Background.jpg">
+            </ImageBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Row="0" Grid.Column="0" Grid.RowSpan="11" Background="Black" Opacity="0.8" BorderBrush="#FF78AEAE" BorderThickness="1,1,3,1"/>
+ 
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" Margin="10,15,0,0">
+            <Border Width="180" Height="60">
+                <TextBlock Text="Booking.com" Margin="10" Foreground="#FFE8B657" FontSize="25" TextAlignment="Center" FontFamily="Palatino Linotype" FontWeight="DemiBold"/>
+            </Border>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical" Margin="0,0,0,0">
+            <Button x:Name="btnAllHotels" Click="btnAllHotels_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                All hotels
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnMyReservations" Click="btnMyReservations_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                My reservations
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnReservationsOwner" Click="btnReservationsOwner_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                Reservations (owner)
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="4" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnAllUsers" Click="btnAllUsers_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                All users
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="5" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnRegisterUser" Click="btnRegisterUser_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                Register user
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="6" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnNewHotel" Click="btnNewHotel_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                New hotel
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="7" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnPendingHotels" Click="btnPendingHotels_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                Pending hotels
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="8" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnNewApartment" Click="btnNewApartment_Click" Width="197" Height="33" Margin="0,0,2,0" Background="Transparent" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Wheat" FontFamily="Palatino Linotype">
+                New apartment
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="9" Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="btnLogOut" Click="btnLogOut_Click" Width="197" Height="33" Margin="0,0,2,0" Background="#FFE8B657" BorderBrush="#FF78AEAE" BorderThickness="0,1,0,1" Foreground="Black" FontFamily="Palatino Linotype">
+                Log out
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\data\\apartments.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\data\\apartments.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|c:\\users\\pc\\desktop\\booking\\booking\\booking\\data\\hotels.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\data\\hotels.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|c:\\users\\pc\\desktop\\booking\\booking\\booking\\pages\\allhotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\pages\\allhotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\pages\\allhotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\pages\\allhotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\pages\\alluserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\pages\\alluserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\pages\\newhotelpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\pages\\newhotelpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\viewmodel\\apartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\viewmodel\\apartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\csvconfiguration\\apartmentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\csvconfiguration\\apartmentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\entity\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\entity\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\controllers\\appartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\controllers\\appartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\repository\\interfaces\\iapartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\repository\\interfaces\\iapartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\services\\implementations\\apartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\services\\implementations\\apartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\repository\\implementation\\apartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\repository\\implementation\\apartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|C:\\Users\\Pc\\Desktop\\Booking\\Booking\\booking\\services\\interfaces\\iapartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90755585-9FC2-4867-8CA4-EF26670BC93E}|Booking\\Booking.csproj|solutionrelative:booking\\services\\interfaces\\iapartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Repository\\Interfaces\\IApartmentRepository.cs",
+              "RelativeDocumentMoniker": "Booking\\Repository\\Interfaces\\IApartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Repository\\Interfaces\\IApartmentRepository.cs",
+              "RelativeToolTip": "Booking\\Repository\\Interfaces\\IApartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:44:14.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Repository\\Implementation\\ApartmentRepository.cs",
+              "RelativeDocumentMoniker": "Booking\\Repository\\Implementation\\ApartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Repository\\Implementation\\ApartmentRepository.cs",
+              "RelativeToolTip": "Booking\\Repository\\Implementation\\ApartmentRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:27:14.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Services\\Interfaces\\IApartmentService.cs",
+              "RelativeDocumentMoniker": "Booking\\Services\\Interfaces\\IApartmentService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Services\\Interfaces\\IApartmentService.cs",
+              "RelativeToolTip": "Booking\\Services\\Interfaces\\IApartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:50:53.021Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Services\\Implementations\\ApartmentService.cs",
+              "RelativeDocumentMoniker": "Booking\\Services\\Implementations\\ApartmentService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Services\\Implementations\\ApartmentService.cs",
+              "RelativeToolTip": "Booking\\Services\\Implementations\\ApartmentService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:54:51.685Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Controllers\\AppartmentController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\AppartmentController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Controllers\\AppartmentController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\AppartmentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:10:29.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Entity\\Apartment.cs",
+              "RelativeDocumentMoniker": "Booking\\Entity\\Apartment.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Entity\\Apartment.cs",
+              "RelativeToolTip": "Booking\\Entity\\Apartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:38:32.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllHotelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllHotelsPage.xaml",
+              "RelativeDocumentMoniker": "Booking\\Pages\\AllHotelsPage.xaml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllHotelsPage.xaml",
+              "RelativeToolTip": "Booking\\Pages\\AllHotelsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-27T02:13:45.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apartments.csv",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Data\\apartments.csv",
+              "RelativeDocumentMoniker": "Booking\\Data\\apartments.csv",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Data\\apartments.csv",
+              "RelativeToolTip": "Booking\\Data\\apartments.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-08-27T02:49:36.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApartmentMap.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\CsvConfiguration\\ApartmentMap.cs",
+              "RelativeDocumentMoniker": "Booking\\CsvConfiguration\\ApartmentMap.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\CsvConfiguration\\ApartmentMap.cs",
+              "RelativeToolTip": "Booking\\CsvConfiguration\\ApartmentMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:39:20.332Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllHotelsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllHotelsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Booking\\Pages\\AllHotelsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllHotelsPage.xaml.cs",
+              "RelativeToolTip": "Booking\\Pages\\AllHotelsPage.xaml.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAowKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:53:53.415Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\ViewModel\\ApartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Booking\\ViewModel\\ApartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\ViewModel\\ApartmentViewModel.cs",
+              "RelativeToolTip": "Booking\\ViewModel\\ApartmentViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:34:34.077Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\App.xaml",
+              "RelativeDocumentMoniker": "Booking\\App.xaml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\App.xaml",
+              "RelativeToolTip": "Booking\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-27T16:36:56.28Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "Booking\\ViewModelLocator.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\ViewModelLocator.cs",
+              "RelativeToolTip": "Booking\\ViewModelLocator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:08:19.139Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hotels.csv",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Data\\hotels.csv",
+              "RelativeDocumentMoniker": "Booking\\Data\\hotels.csv",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Data\\hotels.csv",
+              "RelativeToolTip": "Booking\\Data\\hotels.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-08-28T12:56:25.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllUsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllUsersPage.xaml",
+              "RelativeDocumentMoniker": "Booking\\Pages\\AllUsersPage.xaml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\AllUsersPage.xaml",
+              "RelativeToolTip": "Booking\\Pages\\AllUsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-27T18:18:51.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewHotelPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\NewHotelPage.xaml",
+              "RelativeDocumentMoniker": "Booking\\Pages\\NewHotelPage.xaml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\Pages\\NewHotelPage.xaml",
+              "RelativeToolTip": "Booking\\Pages\\NewHotelPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-27T18:18:46.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Booking\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Booking\\Booking\\Booking\\App.xaml.cs",
+              "RelativeToolTip": "Booking\\App.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:07:05.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
